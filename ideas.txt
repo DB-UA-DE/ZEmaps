@@ -1,0 +1,4 @@
+# Ideas by everyone #
+Example:
+  - <Map name> <Author>
+<Description>
