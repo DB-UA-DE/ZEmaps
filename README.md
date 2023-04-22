@@ -4,7 +4,7 @@ All credits to **Jisk (Jiskster)** for maintaining
 Jiskster/Zombie-Escape and Jiskster/Zombie-Escape-Maps repositories.
 ## Current map list
   **MAPZ1**: Greenflower Escape **(No longer used, file lost)**\
-  **MAPZ2**: City Escape **(In maintance)**\
+  **MAPS0**: City Escape **(In maintance)**\
   **MAPZ0**: Uglywood **(No longer used, file lost)**
 
 If anyone has ideas, please contribute to ```ideas.txt``` file.
