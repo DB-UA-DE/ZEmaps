@@ -6,7 +6,7 @@ Jiskster/Zombie-Escape and Jiskster/Zombie-Escape-Maps repositories.
   **MAP??**: Greenflower Escape **(No longer used, file lost)**\
   **MAPS0**: City Escape **(In maintance)**\
   **MAP??**: Uglywood **(No longer used, file lost)**\
-  **MAPHT**: Houser Town **(Finished)**\
+  **MAPHT**: Houser Town **(Finished, in maintance)**\
   **MAPHS**: Hochhaus Stadt **(While in progress, Ostinsel finished)**
 
 If anyone has ideas, please contribute to ```ideas.txt``` file.
